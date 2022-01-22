@@ -1,3 +1,3 @@
-## Personal Portfolio
+## Maurice Willis Website
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://mauricewillis.xyz/images/metaimage.png)
