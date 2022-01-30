@@ -1,20 +1,40 @@
-import React from 'react';
-import { DiFirebase, DiLinux, DiReact, DiUikit, DiWebplatform, DiWordpress, DiZend } from 'react-icons/di';
-import {SiEthereum} from 'react-icons/si';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import React from "react";
+import {
+  DiFirebase,
+  DiLinux,
+  DiReact,
+  DiUikit,
+  DiWebplatform,
+  DiWordpress,
+  DiZend,
+} from "react-icons/di";
+import { SiEthereum } from "react-icons/si";
+import {
+  Section,
+  SectionDivider,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import {
+  List,
+  ListContainer,
+  ListItem,
+  ListParagraph,
+  ListTitle,
+} from "./TechnologiesStyles";
 
-const Technologies = () =>  (
+const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <SectionTitle main>Tech Stacks</SectionTitle>
     <SectionText>
-      A general list of tech stacks that I am currently familiar with and have experience in.
+      A general list of tech stacks that I am currently familiar with and have
+      experience in.
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem"/>
-        <br/>
+        <DiReact size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
@@ -23,45 +43,44 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem"/>
-        <br/>
+        <DiFirebase size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with Node.js, Database Design and Systems Modelling (UML).
+            Experience with Node.js, Firebase, NextAuth, Redux and Recoil.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiUikit size="3rem"/>
-        <br/>
+        <DiUikit size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with 
-            tools such as Adobe XD, Figma, Tailwind CSS, Bootstrap and Material UI.
+            Experience with tools such as Adobe XD, Tailwind CSS and Material
+            UI.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiWebplatform size="3rem"/>
-        <br/>
+        <DiWebplatform size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>Content Management</ListTitle>
           <ListParagraph>
-            Experience with 
-            platforms such as WordPress, Shopify and Hubspot.
+            Experience with platforms such as WordPress, Shopify and Hubspot.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <SiEthereum size="3rem"/>
-        <br/>
+        <SiEthereum size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>Web3 Technologies</ListTitle>
           <ListParagraph>
-            Experience with 
-            developing on MetaMask, Phantom Wallet, Ethereum, Solana and ThirdWeb API. 
+            Experience with integrating MetaMask, Phantom Wallet and ThirdWeb
+            API.
           </ListParagraph>
         </ListContainer>
       </ListItem>
