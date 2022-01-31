@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Notbnb - Airbnb Clone",
+    title: "Notbnb",
     description:
       "An Airbnb clone - named Notbnb. Primarily a front-end project that utilizes TailwindCSS and Next.js SSR. Includes a working search functionality with a datepicker, that displays available rental homes with MapBox Integration.",
     image: "/images/notbnb.png",
