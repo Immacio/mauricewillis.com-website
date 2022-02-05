@@ -5,7 +5,7 @@ export const projects = [
       "An Instagram clone - created a crypto-focused social media platform where users can like, comment and share photos about their favourite cryptocurrency with NextAuth authentication.",
     image: "/images/cryptogram.png",
     tags: ["Next.js", "NextAuth", "Firebase", "Recoil", "TailwindCSS"],
-    source: "https://gravitysupplychain.com",
+    source: "https://cryptogram-seven.vercel.app/",
     id: 0,
   },
   {
