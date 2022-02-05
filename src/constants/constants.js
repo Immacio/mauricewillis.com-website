@@ -1,21 +1,30 @@
 export const projects = [
   {
-    title: "Gravity Supply Chain Solutions",
+    title: "CryptoGram",
+    description:
+      "An Instagram clone - created a crypto-focused social media platform where users can like, comment and share photos about their favourite cryptocurrency with NextAuth authentication.",
+    image: "/images/cryptogram.png",
+    tags: ["Next.js", "NextAuth", "Firebase", "Recoil", "TailwindCSS"],
+    source: "https://gravitysupplychain.com",
+    id: 0,
+  },
+  {
+    title: "Gravity Supply Chain",
     description:
       "A corporate website that I helped develop, maintain and secure throughout my time as their Web Developer. Used the Salient Theme and created custom webpages using HTML, CSS, JavaScript and PHP.",
     image: "/images/gravity.png",
     tags: ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
     source: "https://gravitysupplychain.com",
-    id: 0,
+    id: 1,
   },
   {
-    title: "Solana NFT Project - Bichon & Buddies",
+    title: "Bichon & Buddies",
     description:
       "An NFT project developed using React and JavaScript. The collection was built and uploaded onto the Solana devnet, and allows users to connect their Phantom Wallet to mint NFTs natively on the site.",
     image: "/images/nft.png",
     tags: ["React", "Node", "JavaScript", "Solana"],
     source: "https://bichonbuddies.vercel.app/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Audio DAO",
@@ -24,7 +33,7 @@ export const projects = [
     image: "/images/audiodao.png",
     tags: ["React", "JavaScript", "ThirdWeb API", "Node"],
     source: "https://audio-dao.vercel.app/",
-    id: 2,
+    id: 3,
   },
   {
     title: "Notbnb",
@@ -33,6 +42,6 @@ export const projects = [
     image: "/images/notbnb.png",
     tags: ["React", "Next.js", "MapBox", "Node", "TailwindCSS"],
     source: "https://notbnb-clone.vercel.app/",
-    id: 2,
+    id: 4,
   },
 ];
