@@ -48,7 +48,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with Node.js, Firebase, NextAuth, Redux and Recoil.
+            Some experience with Node.js, Firebase, NextAuth, Redux and Recoil.
           </ListParagraph>
         </ListContainer>
       </ListItem>
