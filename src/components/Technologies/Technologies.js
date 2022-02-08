@@ -27,10 +27,6 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <SectionTitle main>Tech Stacks</SectionTitle>
-    <SectionText>
-      A general list of tech stacks that I am currently familiar with and have
-      experience in.
-    </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
@@ -48,7 +44,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Some experience with Node.js, Firebase, NextAuth, Redux and Recoil.
+            Experience with Node.js, Firebase, NextAuth, Redux and Recoil.
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -19,10 +19,10 @@ const Timeline = () => {
           <a style={{ color: "white" }}> Australian National University </a>
         </Link>
         majoring in Business Information Systems. <br /> <br />I am currently
-        working as a Web Developer, and am interested in developing
+        working as a Web Developer, and I'm interested in developing
         Crypto/Blockchain apps in Web3. I have been learning to develop web
         applications for the last year with the goal of working on projects with
-        actual real world use-cases and becoming a full fledged developer.
+        actual real world use-cases.
       </SectionText>
     </Section>
   );
