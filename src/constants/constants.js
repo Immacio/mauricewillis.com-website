@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "CryptoGram",
     description:
-      "An Instagram clone - created a crypto-focused social media platform where users can like, comment and share photos about their favourite cryptocurrency with NextAuth authentication.",
+      "An Instagram clone - a crypto-focused social media platform where users can like, comment and share photos about their favourite cryptocurrencies.",
     image: "/images/cryptogram.png",
     tags: ["Next.js", "NextAuth", "Firebase", "Recoil", "TailwindCSS"],
     source: "https://cryptogram-seven.vercel.app/",
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: "Gravity Supply Chain",
     description:
-      "A corporate website that I helped develop, maintain and secure throughout my time as their Web Developer. Used the Salient Theme and created custom webpages using HTML, CSS, JavaScript and PHP.",
+      "A corporate website that I helped develop, maintain and secure throughout my time as their Web Developer. Used the Salient Theme to create custom webpages using HTML, CSS, JavaScript and PHP.",
     image: "/images/gravity.png",
     tags: ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
     source: "https://gravitysupplychain.com",
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: "Notbnb",
     description:
-      "An Airbnb clone - named Notbnb. Primarily a front-end project that utilizes TailwindCSS and Next.js SSR. Includes a working search functionality with a datepicker, that displays available rental homes with MapBox Integration.",
+      "An Airbnb clone - primarily a front-end project that utilizes TailwindCSS and Next.js SSR. Includes a working search functionality with a datepicker, that displays available rental homes with MapBox Integration.",
     image: "/images/notbnb.png",
     tags: ["React", "Next.js", "MapBox", "Node", "TailwindCSS"],
     source: "https://notbnb-clone.vercel.app/",
