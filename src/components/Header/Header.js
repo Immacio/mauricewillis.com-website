@@ -44,7 +44,7 @@ const Header = () => (
       </li>
       <li>
         <Link href="Maurice Willis - CV.pdf" target="_blank">
-          <NavLink>Résumé</NavLink>
+          <NavLink>CV</NavLink>
         </Link>
       </li>
     </Div2>

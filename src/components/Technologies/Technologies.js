@@ -34,7 +34,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with React.js, Next.js, JavaScript, HTML and CSS.
+            Experience with React.js, Next.js, JavaScript ES6, React Native,
+            Redux and various React libraries for building functional UI's.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +45,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with Node.js, Firebase, NextAuth, Redux and Recoil.
+            Experience with Node.js, Firebase and MongoDB.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -54,8 +55,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with tools such as Adobe XD, Tailwind CSS and Material
-            UI.
+            Experience with tools such as Adobe XD, Tailwind CSS, Material UI
+            and Custom Component Libraries with Storybook.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -63,7 +64,7 @@ const Technologies = () => (
         <DiWebplatform size="3rem" />
         <br />
         <ListContainer>
-          <ListTitle>Content Management</ListTitle>
+          <ListTitle>Content Management Systems</ListTitle>
           <ListParagraph>
             Experience with platforms such as WordPress, Shopify and Hubspot.
           </ListParagraph>
