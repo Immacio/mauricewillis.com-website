@@ -1,3 +1,3 @@
-## Portfolio Website - www.mauricewillis.xyz
+## Portfolio Website - www.mauricewillis.com
 
 Personal developer portfolio website
