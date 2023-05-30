@@ -1,8 +1,18 @@
-import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import React from "react";
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 
-import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { SocialIcons } from "../Header/HeaderStyles";
+import {
+  CompanyContainer,
+  FooterWrapper,
+  LinkColumn,
+  LinkItem,
+  LinkList,
+  LinkTitle,
+  Slogan,
+  SocialContainer,
+  SocialIconsContainer,
+} from "./FooterStyles";
 
 const Footer = () => {
   return (
@@ -10,7 +20,9 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hello@mauricewillis.xyz">hello@mauricewillis.xyz</LinkItem>
+          <LinkItem href="mailto:mauricewillis44@gmail.com">
+            mauricewillis44@gmail.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
@@ -18,7 +30,10 @@ const Footer = () => {
           <SocialIcons target="_blank" href="https://github.com/Immacio">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons target="_blank" href="https://www.linkedin.com/in/maurice-willis/">
+          <SocialIcons
+            target="_blank"
+            href="https://www.linkedin.com/in/maurice-willis/"
+          >
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>
