@@ -31,7 +31,7 @@ const Projects = () => (
             <Img src={image}></Img>
             <br /> <br />
             <TitleContent>
-              <HeaderThree title>{title}</HeaderThree>
+              <HeaderThree>{title}</HeaderThree>
               <Hr />
             </TitleContent>
             <CardInfo textAlign="-webkit-auto">{description}</CardInfo>

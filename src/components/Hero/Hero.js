@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionTitle main center>
         Maurice Willis
       </SectionTitle>
-      <SectionText>Front End Developer 💻</SectionText>
+      <SectionText>Frontend Engineer 💻</SectionText>
       <a style={{ color: "white" }} href="#projects">
         <Button>View Projects</Button>
       </a>
